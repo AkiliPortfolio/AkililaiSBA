@@ -28,6 +28,11 @@ html{
     font-weight: 300;
 }
 
+.header a {
+  text-decoration: none;
+ }
+ 
+
 /* Banner*/
 /*
 .banner{
@@ -225,9 +230,8 @@ text-align: center;
  }
 
  .aboutCards h3 {
-  color: rgb(141, 107, 146);
+  color: rgb(159, 134, 192);
   text-transform: uppercase;
-  font-style: italic;
  }
 
  .aboutCards p {
@@ -271,9 +275,9 @@ text-align: center;
   padding-top: 20px;
  }
  
- .image-container {
- 
- }
+.image-container {
+
+}
  
  .image-container img {
   width: 275px;
@@ -381,9 +385,9 @@ text-align: center;
   filter:brightness(shrikhand)(3.142rad);
  }
  
- .map-container iframe {
- 
- } 
+.map-container{
+
+}
  
  /* Footer */
  .footer-left {
